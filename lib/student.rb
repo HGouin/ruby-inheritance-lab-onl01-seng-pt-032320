@@ -1,8 +1,8 @@
 require_relative "./user.rb"
 class Student
-attr_reader :firstname, :lastname
+attr_reader :first_name, :last_name
 def initialize
-  @firstname = firstname
-  @lastname = lastname
+  @first_name = first_name
+  @last_name = last_name
 end
 end
