@@ -5,3 +5,4 @@ def initialize
   @firstname = firstname
   @lastname = lastname
 end
+end
